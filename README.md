@@ -4,9 +4,9 @@ I am a software engineer with experience in full stack web development. Visit my
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=janmejayspurohit&show_icons=true&count_private=true&hide=contribs&theme=chartreuse-dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janmejayspurohit&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janmejayspurohit&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=janmejayspurohit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://git.io/streak-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=janmejayspurohit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming)
 
