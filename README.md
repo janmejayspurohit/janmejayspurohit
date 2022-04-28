@@ -12,5 +12,5 @@ I am a software engineer with experience in full stack web development. Visit my
 
 ## Reach me 📫:
 [![Gmail Badge](https://img.shields.io/badge/-janmejayspurohit@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:janmejayspurohit@gmail.com)](mailto:janmejayspurohit@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-janmejayspurohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asthiseta)](https://www.linkedin.com/in/jsp324)
+[![Linkedin Badge](https://img.shields.io/badge/-janmejayspurohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsp324)](https://www.linkedin.com/in/jsp324)
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Janmejay1997)
